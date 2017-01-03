@@ -3,7 +3,7 @@
 # Note: this widget will only display if `content/publication/` contains publications
 # with `selected = true` in their `+++` preamble.
 
-date = "2016-04-20T00:00:00"
+date = "2016-12-20T00:00:00"
 draft = false
 
 title = "Selected Publications"
@@ -17,4 +17,3 @@ weight = 10
 detailed_list = true
 
 +++
-
