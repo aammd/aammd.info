@@ -1,28 +1,27 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2016-12-20"
 
 # Project title.
-title = "External Project"
+title = "Bromeliad Working Group database"
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "A global database of all "
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = "measuring-bromeliads.jpg"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
 image = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["demo"]
+tags = ["ecology"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+external_link = "http://www.zoology.ubc.ca/~lui/v1/#/dashboard"
 
 # Does the project detail page use math formatting?
 math = false
 
 +++
-
