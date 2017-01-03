@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2016-12-19"
 draft = false
 
 widget = "about"
@@ -12,31 +12,29 @@ weight = 0
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Community ecology",
+    "Predator-prey interactions",
+    "Reproducible research"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Zoology"
+  institution = "University of British Columbia"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Master's in Ecology and Evolution"
+  institution = "University of Toronto"
   year = 2008
- 
+
+[[education.courses]]
+  course = "BSc (Honours) in Biology"
+  institution = "Cape Breton University"
+  year = 2006
+
 +++
 
-# Biography
+# My favourite questions
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Which species of animals are found where on the earth's surface? What do they eat, and how does that determine which animals can live near them? Can we predict either where animals are, or what they do, from something measurable about the animals themselves?
